@@ -1,7 +1,7 @@
 <?php
 $version="2.0";
 $updateInfo="• 新增 弹窗配置";
-$zipUrl="";
+$zipUrl="https://i8os.github.io/app/assets/app.zip";
 
 header("Content-Type:application/json;charset=utf-8");
 header("Access-Control-Allow-Origin:*");
